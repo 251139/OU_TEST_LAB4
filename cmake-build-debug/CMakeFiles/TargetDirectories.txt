@@ -1,0 +1,3 @@
+D:/Oprogramowanie Użytkowe - solid edge/CLION/OU_TEST_LAB4/cmake-build-debug/CMakeFiles/OU_TEST_LAB4.dir
+D:/Oprogramowanie Użytkowe - solid edge/CLION/OU_TEST_LAB4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Oprogramowanie Użytkowe - solid edge/CLION/OU_TEST_LAB4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
